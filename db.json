@@ -1,0 +1,106 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "nom": "Harry Potter à l'école des sorciers",
+      "annee de sortie": "2001",
+      "realisateur": "Chris Columbus"
+    },
+    {
+      "id": "2",
+      "nom": "Retour vers le futur",
+      "annee de sortie": "1985",
+      "realisateur": "Robert Zemeckis"
+    },
+    {
+      "id": "3",
+      "nom": "Jurassic Park",
+      "annee": "1993",
+      "realisateur": "Steven Spielberg"
+    },
+    {
+      "id": 4,
+      "nom": "Star Wars Un nouvel Espoir",
+      "annee": "1977",
+      "realisateur": "Georges Lucas"
+    },
+    {
+      "id": 5,
+      "nom": "Le seigneur des Anneaux La Communauté de l'Anneau",
+      "annee": "2001",
+      "realisateur": "Peter Jackson"
+    }
+  ],
+  "personnages": [
+    {
+      "id": 1,
+      "nom": "Harry Potter",
+      "acteur": "Daniel Radcliffe"
+    },
+    {
+      "id": 2,
+      "nom": "Hermione Granger",
+      "acteur": "Emma Watson"
+    },
+    {
+      "id": 3,
+      "nom": "Ronald Weasley",
+      "acteur": "Emma Watson"
+    },
+    {
+      "id": 4,
+      "nom": "Marty McFly",
+      "acteur": "Michael J. Fox"
+    },
+    {
+      "id": 5,
+      "nom": "Dr Emmett Brown",
+      "acteur": "Christopher Lloyd"
+    },
+    {
+      "id": 6,
+      "nom": "John Hammond",
+      "acteur": "Richard Attenborough"
+    },
+    {
+      "id": 7,
+      "nom": "Pr Alan Grant",
+      "acteur": "Sam Neill"
+    },
+    {
+      "id": 8,
+      "nom": "Ian Malcolm",
+      "acteur": "Jeff Goldblum"
+    },
+    {
+      "id": 9,
+      "nom": "Luke Skywalker",
+      "acteur": "Mark Hamill"
+    },
+    {
+      "id": 10,
+      "nom": "Dark Vador",
+      "acteur": "David Prowse"
+    },
+    {
+      "id": 11,
+      "nom": "Leia Organa",
+      "acteur": "Carrie Fisher"
+    },
+    {
+      "id": 12,
+      "nom": "Frodon Sacquet",
+      "acteur": "Elijah Woodr"
+    },
+    {
+      "id": 13,
+      "nom": "Gandalf",
+      "acteur": "Ian McKellen"
+    },
+    {
+      "id": 14,
+      "nom": "Legolas",
+      "acteur": "Orlando Bloom"
+    }
+  ]
+}
