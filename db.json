@@ -35,7 +35,8 @@
     {
       "id": 1,
       "nom": "Harry Potter",
-      "acteur": "Daniel Radcliffe"
+      "acteur": "Daniel Radcliffe",
+      "idFilm": 1
     },
     {
       "id": 2,
