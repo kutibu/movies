@@ -41,67 +41,80 @@
     {
       "id": 2,
       "nom": "Hermione Granger",
-      "acteur": "Emma Watson"
+      "acteur": "Emma Watson",
+      "idFilm": 1
     },
     {
       "id": 3,
       "nom": "Ronald Weasley",
-      "acteur": "Emma Watson"
+      "acteur": "Emma Watson",
+      "idFilm": 1
     },
     {
       "id": 4,
       "nom": "Marty McFly",
-      "acteur": "Michael J. Fox"
+      "acteur": "Michael J. Fox",
+      "idFilm": 2
     },
     {
       "id": 5,
       "nom": "Dr Emmett Brown",
-      "acteur": "Christopher Lloyd"
+      "acteur": "Christopher Lloyd",
+      "idFilm": 2
     },
     {
       "id": 6,
       "nom": "John Hammond",
-      "acteur": "Richard Attenborough"
+      "acteur": "Richard Attenborough",
+      "idFilm": 3
     },
     {
       "id": 7,
       "nom": "Pr Alan Grant",
-      "acteur": "Sam Neill"
+      "acteur": "Sam Neill",
+      "idFilm": 3
     },
     {
       "id": 8,
       "nom": "Ian Malcolm",
-      "acteur": "Jeff Goldblum"
+      "acteur": "Jeff Goldblum",
+      "idFilm": 3
     },
     {
       "id": 9,
       "nom": "Luke Skywalker",
-      "acteur": "Mark Hamill"
+      "acteur": "Mark Hamill",
+      "idFilm": 4
     },
     {
       "id": 10,
       "nom": "Dark Vador",
-      "acteur": "David Prowse"
+      "acteur": "David Prowse",
+      "idFilm": 4
     },
     {
       "id": 11,
       "nom": "Leia Organa",
-      "acteur": "Carrie Fisher"
+      "acteur": "Carrie Fisher",
+      "idFilm": 4
     },
     {
       "id": 12,
       "nom": "Frodon Sacquet",
-      "acteur": "Elijah Woodr"
+      "acteur": "Elijah Woodr",
+      "idFilm": 5
     },
     {
       "id": 13,
       "nom": "Gandalf",
-      "acteur": "Ian McKellen"
+      "acteur": "Ian McKellen",
+      "idFilm": 5
     },
     {
       "id": 14,
       "nom": "Legolas",
-      "acteur": "Orlando Bloom"
+      "acteur": "Orlando Bloom",
+      "idFilm": 5
     }
   ]
 }
